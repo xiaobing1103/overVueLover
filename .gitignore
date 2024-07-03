@@ -43,8 +43,7 @@ uploads/*
 /.next/
 /out/
 
-# production
-/build
+
 
 # misc
 *.pem
